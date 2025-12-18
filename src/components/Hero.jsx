@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="relative min-h-[100svh] pt-16 md:pt-20 w-full overflow-hidden">
       {/* BACKGROUND IMAGE */}
       <img
-        src="/diverse-group-of-smiling-children-and-volunteers-w.jpg"
+        src="/HeroBanner.png"
         alt="Community Impact"
         className="absolute inset-0 w-full h-full object-cover"
       />
